@@ -1,0 +1,10 @@
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\bin\Debug\tpproject.exe.config
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\bin\Debug\tpproject.exe
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\bin\Debug\tpproject.pdb
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.csprojAssemblyReference.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.Form1.resources
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.Properties.Resources.resources
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.csproj.GenerateResource.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.csproj.CoreCompileInputs.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.exe
+D:\Documents\BUAA\2 SEMESTER\Team Project\tpproject\tpproject\obj\Debug\tpproject.pdb

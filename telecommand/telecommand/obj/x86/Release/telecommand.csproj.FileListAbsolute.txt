@@ -1,0 +1,10 @@
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\bin\x86\Release\telecommand.exe.config
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\bin\x86\Release\telecommand.exe
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\bin\x86\Release\telecommand.pdb
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.csprojAssemblyReference.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.Form1.resources
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.Properties.Resources.resources
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.csproj.GenerateResource.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.csproj.CoreCompileInputs.cache
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.exe
+D:\Documents\BUAA\2 SEMESTER\Team Project\telecommand\telecommand\obj\x86\Release\telecommand.pdb
