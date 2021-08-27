@@ -9,4 +9,4 @@
 
 If it needs modifications or a quick view through the code, you can simply install visual studio and open the .sln file.
 
-While for testing, I installed an app that creates virtual serial ports called PC-NVR, that I used to connect both app to check connection and other stuff. I highly suggest the app if you need to check if the data is correctly sent according to your requirements and modifications.
+While for testing, I installed an app that creates virtual serial ports called "HHD Virtual Serial Port Tools", that I used to connect both app to check connection and other stuff. I highly suggest the app if you need to check if the data is correctly sent according to your requirements and modifications.
